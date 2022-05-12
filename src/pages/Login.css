@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.input-form {
+  border-radius: 10px;
+  display: flex;
+  font-size: 1.2rem;
+  margin: auto;
+  min-width: 275px;
+  padding: 10px;
+}
+
+.btn {
+  background-color: rgb(156, 183, 115);
+  border-radius: 10px;
+  color: black;
+  display: flex;
+  font-size: 1.2rem;
+  margin: auto;
+  min-width: 275px;
+  padding: 10px;
+}
+
+.App {
+  padding: 15px;
+}
